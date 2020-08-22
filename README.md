@@ -12,7 +12,6 @@ int main(int argc,char *argv[])
 		min(&a,&b);
 	}
 	printf("最大公约数为%d\n",a);
-	
 } 
 void min(int *a,int *b){
 	int t;
